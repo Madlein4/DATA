@@ -1,24 +1,58 @@
 # MIS SKILLS
 
-<h2 style="color: #F9AD5F;">.NET</h2>
+✅ == Soy Bueno <br>
+☑️ == Me defiendo <br>
+🟡 == Se poco <br>
+
+## Django
+
+> - ✅ **Python:**  Django está escrito en Python, por lo que un conocimiento profundo de Python es esencial.
+
+> - ✅ **Django Framework:** Un profundo entendimiento de Django y sus componentes es esencial. Esto incluye el manejo de modelos, vistas, plantillas, formularios, URLs y administración de bases de datos.
+
+> - ✅ **JavaScript y AJAX:** Para mejorar la experiencia del usuario y realizar operaciones asíncronas.
+
+> - ✅ **Control de versiones (Git):** Es crucial para el trabajo colaborativo y el seguimiento de cambios en el código.
+
+> - ✅ **Entornos virtuales (virtualenv):** Para gestionar dependencias y entornos de desarrollo.
+
+> - ☑️ **Django REST framework:** Si el desarrollo implica la creación de API REST, es importante conocer este marco. (Integración de APIs)
+
+> - 🟡 **Testing en Django (unittest, pytest):** Conocimientos sobre cómo realizar pruebas unitarias y de integración en Django.
+
+> - ☑️ **Django Templates:** Para la construcción de interfaces de usuario dinámicas.
+
+> - ☑️ **Seguridad en Django:** Conocimientos sobre cómo manejar la seguridad en el desarrollo web, incluyendo protección contra CSRF, inyecciones SQL, etc.
+
+> - ✅ **Manejo de archivos estáticos y medios en Django:** Comprender cómo manejar y servir archivos estáticos y medios.
+
+> - 🟡 **Django Middleware:** Conocer cómo utilizar y personalizar el middleware de Django para realizar acciones específicas durante el procesamiento de solicitudes.
+
+> - 🟡 **Django Signals:** Para gestionar eventos y acciones basadas en señales dentro de la aplicación.
+ 
+> - ☑️ **Despliegue de aplicaciones Django (por ejemplo, utilizando Apache, Nginx, Docker):** > Conocimientos sobre cómo desplegar aplicaciones Django en entornos de producción.
+
+> - ☑️ **Sistemas de gestión de colas (Celery):** Para manejar tareas en segundo plano y procesamiento asíncrono.
+
+### 
+
+## .NET
 
 si, tengo conocimiento sobre ASP.NET, con ello he creado paginas webs usando C#, Visual Basic.NET, JavaScript, HTML y Sass.
 
-
-<h2 style="color: #F9AD5F;">C#</h2>
+## C#
 
 Tengo Conocimientos avanzados en C#, todo lo que es la programación orientada a objetos, etc
 
-<h2 style="color: #F9AD5F;">TypeScript</h2>
+## TypeScript
 
 Este lenguaje es una extención de JavaScript, es basicamente lo mismo pero con mas funcionalidades como variables, parametros, retornos de funciones y más.
 
-<h2 style="color: #F9AD5F;">Node.js</h2>
-
+## Node.js
 
 Es un entorno de ejecución de JavaScript del lado del servidor. Con node podemos instalar librerías de JavaScript.
 
-<h2 style="color: #F9AD5F;">jQuery</h2>
+## JQuery
 
 jQuery es una biblioteca de JavaScript rápida, pequeña y rica en funciones. Fue creada para simplificar la manipulación del DOM (Document Object Model), el manejo de eventos, las animaciones y las peticiones `AJAX` en aplicaciones web. Aquí hay algunas características y beneficios clave de jQuery:
 
@@ -34,11 +68,11 @@ jQuery es una biblioteca de JavaScript rápida, pequeña y rica en funciones. Fu
 
 - Extensibilidad: Puedes ampliar las capacidades de jQuery con plugins que añaden nuevas funcionalidades o características.
 
-<h2 style="color: #F9AD5F;">React</h2>
+## React
 
 React es una librería de JavaScript para poder desarrollar interfaces de usuario.
 
-<h2 style="color: #F9AD5F;">API REST</h2>
+## API REST
 
 Es un conjunto de principios y reglas para diseñar un servicio que permita la comunicación entre 
 sistemas a través de internet.
@@ -49,35 +83,10 @@ sistemas a través de internet.
 
 - Trabaje con APIs de Microsoft Azure para realizar un login con la cuneta institucional de un instituto.
 
-<h2 style="color: #F9AD5F;">Angular</h2>
+## Angular
 
 Es un framework para paginas web de una sola pagina o 'single page' (para webs SPA)
 
-<h2 style="color: #F9AD5F;">POO</h2>
+## POO
 
 Estas siglas se refieren a Programación Orientado a Objetos
-
-
-# PRESENTACIONES
-
-<h2 style="color: #F9AD5F;">Presentacion n1</h2>
-
-Estimados del Equipo de BairesDev:
-
-Presento mi candidatura para el puesto de desarrollador en TypeScript.
-
-Con una carrera técnica en informática ya finalizada, y con una formación solida en cursos de diversas tecnologías.
-
-Mis habilidades incluyen:
-- JavaScript
-- TypeScript
-- Node.js
-- Express
-- React
-- Jquery
-- API REST
-- HTML
-- CSS
-- SASS
-
-Estoy convencido de que mis habilidades se alinean con lo que se requiere en BairesDev, y estoy ansioso de aportar con mi pasión por la programación, mi capacidad analítica y mi compromiso con la excelencia en esta posición.
